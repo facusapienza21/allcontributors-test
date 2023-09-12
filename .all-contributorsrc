@@ -1,4 +1,21 @@
 {
   "projectName": "allcontributors-test",
-  "projectOwner": "facusapienza21"
+  "projectOwner": "facusapienza21",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "facusapienza21",
+      "name": "Facundo Sapienza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39526081?v=4",
+      "profile": "http://facusapienza.com",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ]
 }
